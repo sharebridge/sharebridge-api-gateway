@@ -4,7 +4,19 @@
 
 ## Overview
 
-This repository is part of the ShareBridge project - a platform for dignified charitable giving.
+This repository contains the **API Gateway** - the single entry point for all client requests to ShareBridge backend services.
+
+**Key Responsibilities:**
+- 🚪 Request routing to appropriate microservices
+- 🔐 Authentication and authorization (JWT validation)
+- 🛡️ Rate limiting and DDoS protection
+- 📝 Request/response logging and monitoring
+- 🔄 Load balancing across service instances
+- 🌐 CORS policy enforcement
+- 📊 API analytics and metrics collection
+- ⚡ Response caching for performance
+
+**Technology Stack:** Kong, AWS API Gateway, or Azure API Management (TBD)
 
 For overall project context, see the [main ShareBridge repository](https://github.com/sharebridge/sharebridge).
 

@@ -1,10 +1,10 @@
-# sharebridge-api-gateway
+# sharingbridge-api-gateway
 
 > API gateway and routing
 
 ## Overview
 
-This repository contains the **API Gateway** - the single entry point for all client requests to ShareBridge backend services.
+This repository contains the **API Gateway** - the single entry point for all client requests to SharingBridge backend services.
 
 **Key Responsibilities:**
 - 🚪 Request routing to appropriate microservices
@@ -18,7 +18,7 @@ This repository contains the **API Gateway** - the single entry point for all cl
 
 **Technology Stack:** Kong, AWS API Gateway, or Azure API Management (TBD)
 
-For overall project context, see the [main ShareBridge repository](https://github.com/sharebridge/sharebridge).
+For overall project context, see the [main SharingBridge repository](https://github.com/sharingbridge/sharingbridge).
 
 ## Repository Status
 
@@ -31,7 +31,7 @@ For overall project context, see the [main ShareBridge repository](https://githu
 
 ## Contributing
 
-See the [main repository's CALL_FOR_CONTRIBUTORS.md](https://github.com/sharebridge/sharebridge/blob/main/development/CALL_FOR_CONTRIBUTORS.md) for:
+See the [main repository's CALL_FOR_CONTRIBUTORS.md](https://github.com/sharingbridge/sharingbridge/blob/main/development/CALL_FOR_CONTRIBUTORS.md) for:
 - How to contribute (technical and non-technical)
 - Joining GitHub Discussions
 - Submitting prompts and feature ideas
@@ -42,4 +42,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Part of the [ShareBridge](https://github.com/sharebridge/sharebridge) ecosystem
+Part of the [SharingBridge](https://github.com/sharingbridge/sharingbridge) ecosystem
